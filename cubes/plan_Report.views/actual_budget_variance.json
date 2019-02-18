@@ -6,7 +6,7 @@
 		{
 			"Subset":
 			{
-				"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Subsets('variance analysis')"
+				"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Subsets('ly actual')"
 			}
 		}
 	],
