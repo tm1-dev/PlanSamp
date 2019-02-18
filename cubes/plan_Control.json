@@ -1,6 +1,7 @@
 {
 	"@type":"Cube",
 	"Name":"plan_Control",
+	"Rules": "Skipcheck;",
 	"Dimensions":
 	[
 		{
