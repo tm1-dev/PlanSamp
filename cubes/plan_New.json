@@ -1,0 +1,13 @@
+{
+	"@type":"Cube",
+	"Name":"plan_New",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_report')"
+		},
+		{
+			"@id":"Dimensions('plan_time')"
+		}
+	]
+}
