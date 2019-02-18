@@ -15,7 +15,7 @@
 		{
 			"Subset":
 			{
-				"@id":"Dimensions('plan_lines')/Hierarchies('plan_lines')/Subsets('lines')"
+				"@id":"Dimensions('plan_lines')/Hierarchies('plan_lines')/Subsets('Default')"
 			}
 		}
 	],
